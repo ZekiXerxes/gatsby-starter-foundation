@@ -11,13 +11,19 @@ Web Solutions - We make Awesome Websites!
 
 # We provide:
 
-* ☆ SSL certificate,
-* ☆ SEO Compatibility,
-* ☆ Optimized for Mobile,
-* ☆ Modern Design,
-* ☆ Fast Load Times,
-* ☆ Good UX/UI,
-* and more..
+☆ SSL certificate,
+
+☆ SEO Compatibility,
+
+☆ Optimized for Mobile,
+
+☆ Modern Design,
+
+☆ Fast Load Times,
+
+☆ Good UX/UI,
+
+and more..
 
 
 
