@@ -101,7 +101,7 @@ module.exports = {
         name: `Webs0`,
         short_name: `Webs0`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
+        background_color: `#ffffff`,
         theme_color: `#46598A`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
