@@ -80,6 +80,13 @@ const HomePage = ({ data }) => {
   const sIcons = Icons.socialIcons.map((icons, index) => {
     return (
       <div key={"social icons" + index}>
+         {icons.icon === "mail" ? (
+          <a href={icons.url} target="_blank" aria-label="link to Mail" rel="noopener noreferrer">
+            <RiMailFill alt="Mail icon"/>
+          </a>
+        ) : (
+          ""
+        )}                              
         {icons.icon === "facebook" ? (
           <a href={icons.url} target="_blank" aria-label="link to Facebook" rel="noopener noreferrer">
             <RiFacebookBoxFill alt="Facebook icon"/>
