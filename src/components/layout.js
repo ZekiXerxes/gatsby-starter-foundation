@@ -31,7 +31,6 @@ const Layout = ({ children, className, props }) => {
   return (
     <div className="primary-container">
       <Header>
-        <img src="static/assets/logo2.png">
         <Logo title={siteTitle} />
         <div sx={layoutStyle.nav}>
           <div sx={{ display: ["flex", "flex", "flex", "none"] }}>
