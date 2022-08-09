@@ -3,7 +3,8 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
+Please, feel free to message your requirements to get a quote
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Contact me on
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Gmail at [webs0help@gmail](mailto:webs0help@gmail)
