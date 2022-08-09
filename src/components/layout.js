@@ -32,7 +32,7 @@ const Layout = ({ children, className, props }) => {
   return (
     <div className="primary-container">
       <Header>
-        <Logo image={logoImage} title={siteTitle} />
+        <Logo title={siteTitle.logoImage} />
         <div sx={layoutStyle.nav}>
           <div sx={{ display: ["flex", "flex", "flex", "none"] }}>
             <Search searchIndex={siteSearchIndex.index} />
