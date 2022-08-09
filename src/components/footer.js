@@ -11,7 +11,9 @@ const Footer = () => (
     }}
   >
     <div className="container">
-
+      <p>
+      © 2022 - Webs0.
+      </p>
     </div>
   </footer>
 )
