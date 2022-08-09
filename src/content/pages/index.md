@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Webs0
 tagline: Web Solutions
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/logo.png
 cta:
   ctaText: Know more
   ctaLink: /about
