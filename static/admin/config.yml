@@ -180,6 +180,7 @@ collections:
                 widget: "select"
                 options:
                   [
+                    "mail"
                     "facebook",
                     "twitter",
                     "linkedin",
