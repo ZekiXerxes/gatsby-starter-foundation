@@ -7,6 +7,10 @@
     {
       "icon": "instagram",
       "url": "https://www.instagram.com/awebs0/"
+    },
+    {
+      "icon": "mail",
+      "url": "mailto:webs0help@gmail"
     }
   ]
 }
